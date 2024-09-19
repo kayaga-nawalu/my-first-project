@@ -1,0 +1,41 @@
+h1 {
+    color: blueviolet;
+    text-shadow: 1px 1px 2px black, 0 0 25px white, 0 0 5px darkblue;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgba(63, 57, 57, 0.705)
+}
+
+h4 {
+    color: green;
+    text-align: center;
+    font-family: cursive;
+}
+
+nav {
+    float: right;
+}
+
+ul {
+    color: darkred;
+}
+
+p {
+    color: black;
+}
+
+img {
+    height: 150px;
+    width: 30%;
+    border-radius: 50%;
+    float: right;
+}
+
+ol {
+    font-family: cursive;
+    color: darkred;
+    font-size: large;
+}
